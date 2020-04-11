@@ -18,4 +18,22 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>我的第一篇博文</title>
+    <url>/2020/04/11/the-1st-post/</url>
+    <content><![CDATA[<h2 id="第一篇博文"><a href="#第一篇博文" class="headerlink" title="第一篇博文"></a>第一篇博文</h2><p>弄了几天 , 终于设置好了Github Pages和Hexo , 配好了主题 , 可以开始写博客了</p>
+<h3 id="此站由来"><a href="#此站由来" class="headerlink" title="此站由来"></a>此站由来</h3><p>原本在初中 , 2016年的时候 , 我就已经用Github和Hexo生成过一个博客了 , 然而当时年少无知(现在也是) , 起了个很羞耻的Github用户名 , 导致我不敢把那个博客分享出去 , 加之没什么东西可写 , 那个博客就被废弃了(虽然现在还能访问)</p>
+<p>结果这段时间因为疫情的原因宅在家里 , 迫于无聊 , 我又萌生了建博客的想法 , 于是就有了这个站</p>
+<h3 id="一些想法"><a href="#一些想法" class="headerlink" title="一些想法"></a>一些想法</h3><p>之后我大概会把这个站用于记录分享以下的一些东西:</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">0.生活经历</span><br><span class="line">1.高中课内学习</span><br><span class="line">2.有关计算机的学习</span><br><span class="line">3.有关电子设计的学习</span><br><span class="line">4.软件资源及使用技巧</span><br><span class="line">5.影视书籍资源分享</span><br><span class="line">...</span><br></pre></td></tr></table></figure>
+
+<p>希望我能坚持下去吧!</p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
 </search>

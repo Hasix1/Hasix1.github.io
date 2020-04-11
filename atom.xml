@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hasix1.github.io/"/>
-  <updated>2020-04-08T01:44:04.004Z</updated>
+  <updated>2020-04-11T14:04:28.899Z</updated>
   <id>https://hasix1.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博文</title>
+    <link href="https://hasix1.github.io/2020/04/11/the-1st-post/"/>
+    <id>https://hasix1.github.io/2020/04/11/the-1st-post/</id>
+    <published>2020-04-11T13:33:27.000Z</published>
+    <updated>2020-04-11T14:04:28.899Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;第一篇博文&quot;&gt;&lt;a href=&quot;#第一篇博文&quot; class=&quot;headerlink&quot; title=&quot;第一篇博文&quot;&gt;&lt;/a&gt;第一篇博文&lt;/h2&gt;&lt;p&gt;弄了几天 , 终于设置好了Github Pages和Hexo , 配好了主题 , 可以开始写博客了&lt;/p&gt;
+&lt;h3
+        
+      
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="https://hasix1.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="杂记" scheme="https://hasix1.github.io/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
